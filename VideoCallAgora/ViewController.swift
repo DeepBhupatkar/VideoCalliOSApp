@@ -28,8 +28,8 @@ class ViewController: UIViewController {
   
     override func viewDidLoad() 
     //viewDidLoad like onAppear in swiftUi
-    //when screen with UI Loads
-    { 
+    //when screen with UI Loads //some major update
+    {
         super.viewDidLoad()
             //Do Addtional setup after loading view
 
