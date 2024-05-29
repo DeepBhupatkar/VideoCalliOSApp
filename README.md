@@ -19,6 +19,8 @@ This iOS app demonstrates how to integrate Agora UI Kit into your project to ena
 
 **Note**
 
-After cloning this repository, please ensure to provide the App ID and Token ID, as well as the channel name (you can have this value from agora console). These values are not provided in the repository due to security purposes. Before utilizing the app, it's worth noting that I used Storyboards in the UI implementation; however, feel free to modify it according to your preferences.
+After cloning this repository, please ensure to provide the App ID and Token ID, as well as the channel name (you can have this value from agora console). These values are not provided in the repository due to security purposes. 
+
+Before utilizing the app, it's worth noting that I used Storyboards in the UI implementation however, feel free to modify it according to your preferences.
 
 *Enjoy real-time audio and video communication with other users, across different channels as per your requirements!*
