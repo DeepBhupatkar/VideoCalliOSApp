@@ -1,6 +1,6 @@
 # VideoCalliOSApp
 
-**Agora UI Kit iOS App: Real-Time Audio and Video Communication**
+**Agora UI Kit iOS App: Real-Time Audio and Video Communication.**
 
 **Overview**
 
